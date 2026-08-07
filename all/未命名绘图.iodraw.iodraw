@@ -55,8 +55,14 @@
         <mxCell id="RgCC7Wa8-sFegiSci8se-2" value="房间大小及通风调查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="170" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RgCC7Wa8-sFegiSci8se-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-4" target="RgCC7Wa8-sFegiSci8se-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RgCC7Wa8-sFegiSci8se-4" value="计算及风险评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgCC7Wa8-sFegiSci8se-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
