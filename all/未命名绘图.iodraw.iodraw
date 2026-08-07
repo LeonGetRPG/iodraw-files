@@ -56,7 +56,7 @@
           <mxGeometry x="250" y="170" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgCC7Wa8-sFegiSci8se-4" value="计算及风险评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="370" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
