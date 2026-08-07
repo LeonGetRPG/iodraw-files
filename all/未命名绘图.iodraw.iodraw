@@ -86,7 +86,7 @@
         <mxCell id="RgCC7Wa8-sFegiSci8se-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-25" target="RgCC7Wa8-sFegiSci8se-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RgCC7Wa8-sFegiSci8se-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-25" target="RgCC7Wa8-sFegiSci8se-4">
+        <mxCell id="RgCC7Wa8-sFegiSci8se-30" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=top;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-25" target="RgCC7Wa8-sFegiSci8se-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RgCC7Wa8-sFegiSci8se-25" value="风险可接受？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
