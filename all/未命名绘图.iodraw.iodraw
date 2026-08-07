@@ -78,11 +78,16 @@
         <mxCell id="RgCC7Wa8-sFegiSci8se-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-14" target="RgCC7Wa8-sFegiSci8se-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RgCC7Wa8-sFegiSci8se-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RgCC7Wa8-sFegiSci8se-20">
+          <mxGeometry x="-0.1833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RgCC7Wa8-sFegiSci8se-14" value="风险可接受？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="510" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RgCC7Wa8-sFegiSci8se-19" value="End 记录" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="665" width="120" height="45" as="geometry" />
+          <mxGeometry x="160" y="620" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
