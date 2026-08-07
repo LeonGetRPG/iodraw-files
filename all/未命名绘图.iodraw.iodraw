@@ -75,8 +75,8 @@
         <mxCell id="RgCC7Wa8-sFegiSci8se-6" value="安全措施识别及评估" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="440" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RgCC7Wa8-sFegiSci8se-14" value="是否有限释放" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="510" width="120" height="80" as="geometry" />
+        <mxCell id="RgCC7Wa8-sFegiSci8se-14" value="风险可接受？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="510" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
