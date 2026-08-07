@@ -83,7 +83,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RgCC7Wa8-sFegiSci8se-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-14" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="RgCC7Wa8-sFegiSci8se-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=right;verticalAlign=middle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgCC7Wa8-sFegiSci8se-14" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="545" />
